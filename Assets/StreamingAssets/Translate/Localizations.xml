@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+  <list>
+    <language name="Русский" file="Rus"/>
+    <language name="English" file="Eng"/>
+    <language name="Spanish" file="Span"/>
+    <language name="China" file="China"/>
+   </list>
+</languages>

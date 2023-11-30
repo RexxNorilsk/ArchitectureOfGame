@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52c7a44e101197349a77bd535a2c6ad6, type: 3}
+  m_Name: ProgramOptions
+  m_EditorClassIdentifier: 
+  _language: Rus
+  _pathToSave: '%streamingAssetsPath%/save.xml'
+  _pathsToAssetBundles:
+  - main
+  - gui
+  _defaultDiffculty: normal
+  _gameSceneName: GameScene
+  _dataBaseFolder: DataBase
+  _objectsToSpawnInScenes:
+  - SceneName: Menu
+    ObjectsToSpawn: {fileID: 11400000, guid: 1120c7946e07afe46ae6de732394b4c2, type: 2}
+  - SceneName: Level
+    ObjectsToSpawn: {fileID: 11400000, guid: 5cc158d8b1ab1454a8bc89deecf67e98, type: 2}
+  _defaultLevelEnviroments: {fileID: 11400000, guid: cc7659b690d42d4459903440296cdaae, type: 2}

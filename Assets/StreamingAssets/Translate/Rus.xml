@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lang>
+    <name>Русский</name>
+    <dots>
+      <dot key="blaster" data="Бластер"/>
+      <dot key="plasma" data="Плазма оружие"/>
+      <dot key="rocket" data="Ракетница"/>
+      <dot key="shotgun" data="Дробовик"/>
+      <dot key="tmp" data="ТМП"/>
+      <dot key="kinetic" data="Кинетическое оружие"/>
+      
+      <dot key="rocketGunComplex" data="Ракета"/>
+      <dot key="blasterGunComplex" data="Базовый"/>
+      <dot key="closeCombatGunComplex" data="Ближний"/>
+      <dot key="kineticCombatGunComplex" data="Кинетический"/>
+      <dot key="superRocketGunComplex" data="Бууум!"/>
+      <dot key="shooterGunComplex" data="Стрелок"/>
+      <dot key="tmpGunComplex" data="Пулемётчик"/>
+
+      <dot key="diffculty0" data="Легко"/>
+      <dot key="diffculty1" data="Нормально"/>
+      <dot key="diffculty2" data="Сложно"/>
+      
+      <dot key="shopMainWeapon" data="[i]Основное оружие:[/i]" />
+      <dot key="shopSecondaryWeapon" data="[i]Вспомогательное оружие:[/i]" />
+      <dot key="price" data="Стоимость"/>
+      <dot key="purchased" data="Куплено"/>
+
+      <dot key="language" data="Язык"/>
+    </dots>
+</lang>

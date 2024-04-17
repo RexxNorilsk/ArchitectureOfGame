@@ -3,7 +3,6 @@ using System.Collections;
 using Infrastructure.Utility;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using Valve.VR;
 
 namespace Infrastructure.Service.LoadLevels
 {

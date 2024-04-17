@@ -5,3 +5,6 @@ This project provides a flexible basic architecture for Unity games. It includes
 - A system for organizing basic localization
 - A system for basic data storage
 - A system for working with resources, including in AssetBundle
+<br/>
+Scripts:<br/>
+![image](https://github.com/RexxNorilsk/ArchitectureOfGame/assets/36097392/15121178-7bd6-4756-9cb1-cbe13f6d5ede)
